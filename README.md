@@ -1,6 +1,13 @@
 # mysql-on-vagrant
 
-Afer the box box:
+AsOfNow: 
+
+mysql-community-server.x86_64 0:8.0.23-1.el7
+
+
+## Initialization needed for mysql8
+
+Afer the box started:
 
 login with root and run below:
 
